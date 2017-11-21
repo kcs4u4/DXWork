@@ -4,6 +4,7 @@
     <types>
         <members>DXWorkshopFetchRecords</members>
         <members>DXWorkshopFetchRecordsTest</members>
+        <members>DemoJam</members>
         <members>DxWorkshopCreateAccount</members>
         <members>DxWorkshopCreateAccountTest</members>
         <members>test</members>
